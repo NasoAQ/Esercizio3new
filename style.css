@@ -1,0 +1,11 @@
+
+#cards-cnt {
+    display: flex;
+    justify-content: center;
+}
+#cards-row {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 1150px;
+}
